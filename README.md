@@ -5,4 +5,4 @@
 -------------------------------------------------------------------------------------------------------------------------------------
 ## Dans Eden Otto Robot
 ### Arduino tabanlı dans eden Otto robot proje kodları. Emir Yorgun tarafından oluşturuldu.
-#### Not: BArduino IDE içerisindeki Serial Monitor yardımıyla gerekli dans hareketlerini tek tek veya belirli bir sırayla yürüten kod.
+#### Not: Arduino IDE içerisindeki Serial Monitor yardımıyla gerekli dans hareketlerini tek tek veya belirli bir sırayla yürüten kod.
