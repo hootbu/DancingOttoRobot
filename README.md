@@ -7,7 +7,7 @@
 ### Arduino tabanlı dans eden Otto robot proje kodları. Emir Yorgun tarafından oluşturuldu.
 #### Arduino IDE içerisindeki Serial Monitor yardımıyla gerekli dans hareketlerini tek tek veya belirli bir sırayla yürüten kod.
 #### Ekipmanlar: Arduino Nano, Arduino Nano Shield, 4x Servo Motor, HC-SR04 Ultrasonik Mesafe Sensörü, Buzzer, 3D Otto Robot Modeli
-
+--------------------------------------------------------------------------------------------------------------------------------------------------------
 ## Code Screen | Kod Ekranı
 ![Manuel Kontrol](https://user-images.githubusercontent.com/94324663/224572871-7ee0528b-7e32-4249-889b-fa9d0818f461.png)
 
